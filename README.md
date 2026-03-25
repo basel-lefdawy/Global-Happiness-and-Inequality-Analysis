@@ -1,5 +1,5 @@
 # 🌍 Global Happiness Analysis
-
+**Does wealth guarantee happiness, or does equality matter more?**
 ## 📊 Overview
 This project analyzes the relationship between economic performance, income inequality, and happiness across countries.
 
