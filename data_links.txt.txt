@@ -1,0 +1,10 @@
+Dataset Links
+
+1. World Happiness Report
+Source: https://www.kaggle.com/datasets/unsdsn/world-happiness
+
+2. GDP per capita (World Bank)
+Source: https://data.worldbank.org/indicator/NY.GDP.PCAP.CD
+
+3. Gini Index (World Bank)
+Source: https://data.worldbank.org/indicator/SI.POV.GINI
